@@ -15,4 +15,4 @@
 - このリポジトリも`MIT MUSUKO-WARE LICENSE`によって提供されます
 
 ## その他
-[My twitter](https://twitter.com/kokkiemouse)や[My github](https://github.com/kokkiemouse)をフォローしてくれると作者が喜びます。
+[ﾂｲｯﾀﾊｧ](https://twitter.com/kokkiemouse)や[Github](https://github.com/kokkiemouse)をフォローしてくれると作者が喜びます。
