@@ -1,4 +1,4 @@
-# "THE MIT SUSHI-WARE LICENSE"
+# "THE MIT MUSUKO-WARE LICENSE"
 
 Copyright [YEAR] [COPYRIGHT HOLDER]
 
@@ -8,6 +8,6 @@ Copyright [YEAR] [COPYRIGHT HOLDER]
 If the above two conditions are met, the following rights are granted.
 
 - The right to use, copy, modify and redistribute without charge and without restriction.
-- The right to buy the author (copyright holder) of the software a bowl of sushi🍣.
+- The right to grasp the penis♂ of the software author (copyright holder).
 
-based [SUSHI-WARE LICENSE](https://github.com/MakeNowJust/sushi-ware)
+based [THE MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)
